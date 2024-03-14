@@ -1,0 +1,15 @@
+/home/matheusvictor/Documents/cnuStudy/poo/01concepts/bin/Debug/net8.0/01concepts
+/home/matheusvictor/Documents/cnuStudy/poo/01concepts/bin/Debug/net8.0/01concepts.deps.json
+/home/matheusvictor/Documents/cnuStudy/poo/01concepts/bin/Debug/net8.0/01concepts.runtimeconfig.json
+/home/matheusvictor/Documents/cnuStudy/poo/01concepts/bin/Debug/net8.0/01concepts.dll
+/home/matheusvictor/Documents/cnuStudy/poo/01concepts/bin/Debug/net8.0/01concepts.pdb
+/home/matheusvictor/Documents/cnuStudy/poo/01concepts/obj/Debug/net8.0/01concepts.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheusvictor/Documents/cnuStudy/poo/01concepts/obj/Debug/net8.0/01concepts.AssemblyInfoInputs.cache
+/home/matheusvictor/Documents/cnuStudy/poo/01concepts/obj/Debug/net8.0/01concepts.AssemblyInfo.cs
+/home/matheusvictor/Documents/cnuStudy/poo/01concepts/obj/Debug/net8.0/01concepts.csproj.CoreCompileInputs.cache
+/home/matheusvictor/Documents/cnuStudy/poo/01concepts/obj/Debug/net8.0/01concepts.sourcelink.json
+/home/matheusvictor/Documents/cnuStudy/poo/01concepts/obj/Debug/net8.0/01concepts.dll
+/home/matheusvictor/Documents/cnuStudy/poo/01concepts/obj/Debug/net8.0/refint/01concepts.dll
+/home/matheusvictor/Documents/cnuStudy/poo/01concepts/obj/Debug/net8.0/01concepts.pdb
+/home/matheusvictor/Documents/cnuStudy/poo/01concepts/obj/Debug/net8.0/01concepts.genruntimeconfig.cache
+/home/matheusvictor/Documents/cnuStudy/poo/01concepts/obj/Debug/net8.0/ref/01concepts.dll
