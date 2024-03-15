@@ -1,0 +1,15 @@
+/home/matheusvictor/Documents/cnuStudy/poo/07constructor/obj/Debug/net8.0/07constructor.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheusvictor/Documents/cnuStudy/poo/07constructor/obj/Debug/net8.0/07constructor.AssemblyInfoInputs.cache
+/home/matheusvictor/Documents/cnuStudy/poo/07constructor/obj/Debug/net8.0/07constructor.AssemblyInfo.cs
+/home/matheusvictor/Documents/cnuStudy/poo/07constructor/obj/Debug/net8.0/07constructor.csproj.CoreCompileInputs.cache
+/home/matheusvictor/Documents/cnuStudy/poo/07constructor/obj/Debug/net8.0/07constructor.sourcelink.json
+/home/matheusvictor/Documents/cnuStudy/poo/07constructor/bin/Debug/net8.0/07constructor
+/home/matheusvictor/Documents/cnuStudy/poo/07constructor/bin/Debug/net8.0/07constructor.deps.json
+/home/matheusvictor/Documents/cnuStudy/poo/07constructor/bin/Debug/net8.0/07constructor.runtimeconfig.json
+/home/matheusvictor/Documents/cnuStudy/poo/07constructor/bin/Debug/net8.0/07constructor.dll
+/home/matheusvictor/Documents/cnuStudy/poo/07constructor/bin/Debug/net8.0/07constructor.pdb
+/home/matheusvictor/Documents/cnuStudy/poo/07constructor/obj/Debug/net8.0/07constructor.dll
+/home/matheusvictor/Documents/cnuStudy/poo/07constructor/obj/Debug/net8.0/refint/07constructor.dll
+/home/matheusvictor/Documents/cnuStudy/poo/07constructor/obj/Debug/net8.0/07constructor.pdb
+/home/matheusvictor/Documents/cnuStudy/poo/07constructor/obj/Debug/net8.0/07constructor.genruntimeconfig.cache
+/home/matheusvictor/Documents/cnuStudy/poo/07constructor/obj/Debug/net8.0/ref/07constructor.dll

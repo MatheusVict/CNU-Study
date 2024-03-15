@@ -1,0 +1,15 @@
+/home/matheusvictor/Documents/cnuStudy/poo/08getsetter/bin/Debug/net8.0/08getsetter
+/home/matheusvictor/Documents/cnuStudy/poo/08getsetter/bin/Debug/net8.0/08getsetter.deps.json
+/home/matheusvictor/Documents/cnuStudy/poo/08getsetter/bin/Debug/net8.0/08getsetter.runtimeconfig.json
+/home/matheusvictor/Documents/cnuStudy/poo/08getsetter/bin/Debug/net8.0/08getsetter.dll
+/home/matheusvictor/Documents/cnuStudy/poo/08getsetter/bin/Debug/net8.0/08getsetter.pdb
+/home/matheusvictor/Documents/cnuStudy/poo/08getsetter/obj/Debug/net8.0/08getsetter.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheusvictor/Documents/cnuStudy/poo/08getsetter/obj/Debug/net8.0/08getsetter.AssemblyInfoInputs.cache
+/home/matheusvictor/Documents/cnuStudy/poo/08getsetter/obj/Debug/net8.0/08getsetter.AssemblyInfo.cs
+/home/matheusvictor/Documents/cnuStudy/poo/08getsetter/obj/Debug/net8.0/08getsetter.csproj.CoreCompileInputs.cache
+/home/matheusvictor/Documents/cnuStudy/poo/08getsetter/obj/Debug/net8.0/08getsetter.sourcelink.json
+/home/matheusvictor/Documents/cnuStudy/poo/08getsetter/obj/Debug/net8.0/08getsetter.dll
+/home/matheusvictor/Documents/cnuStudy/poo/08getsetter/obj/Debug/net8.0/refint/08getsetter.dll
+/home/matheusvictor/Documents/cnuStudy/poo/08getsetter/obj/Debug/net8.0/08getsetter.pdb
+/home/matheusvictor/Documents/cnuStudy/poo/08getsetter/obj/Debug/net8.0/08getsetter.genruntimeconfig.cache
+/home/matheusvictor/Documents/cnuStudy/poo/08getsetter/obj/Debug/net8.0/ref/08getsetter.dll

@@ -1,0 +1,15 @@
+/home/matheusvictor/Documents/cnuStudy/poo/03school/obj/Debug/net8.0/03school.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheusvictor/Documents/cnuStudy/poo/03school/obj/Debug/net8.0/03school.AssemblyInfoInputs.cache
+/home/matheusvictor/Documents/cnuStudy/poo/03school/obj/Debug/net8.0/03school.AssemblyInfo.cs
+/home/matheusvictor/Documents/cnuStudy/poo/03school/obj/Debug/net8.0/03school.csproj.CoreCompileInputs.cache
+/home/matheusvictor/Documents/cnuStudy/poo/03school/obj/Debug/net8.0/03school.sourcelink.json
+/home/matheusvictor/Documents/cnuStudy/poo/03school/bin/Debug/net8.0/03school
+/home/matheusvictor/Documents/cnuStudy/poo/03school/bin/Debug/net8.0/03school.deps.json
+/home/matheusvictor/Documents/cnuStudy/poo/03school/bin/Debug/net8.0/03school.runtimeconfig.json
+/home/matheusvictor/Documents/cnuStudy/poo/03school/bin/Debug/net8.0/03school.dll
+/home/matheusvictor/Documents/cnuStudy/poo/03school/bin/Debug/net8.0/03school.pdb
+/home/matheusvictor/Documents/cnuStudy/poo/03school/obj/Debug/net8.0/03school.dll
+/home/matheusvictor/Documents/cnuStudy/poo/03school/obj/Debug/net8.0/refint/03school.dll
+/home/matheusvictor/Documents/cnuStudy/poo/03school/obj/Debug/net8.0/03school.pdb
+/home/matheusvictor/Documents/cnuStudy/poo/03school/obj/Debug/net8.0/03school.genruntimeconfig.cache
+/home/matheusvictor/Documents/cnuStudy/poo/03school/obj/Debug/net8.0/ref/03school.dll

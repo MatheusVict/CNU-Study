@@ -1,0 +1,15 @@
+/home/matheusvictor/Documents/cnuStudy/poo/11polimorfism/obj/Debug/net8.0/11polimorfism.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheusvictor/Documents/cnuStudy/poo/11polimorfism/obj/Debug/net8.0/11polimorfism.AssemblyInfoInputs.cache
+/home/matheusvictor/Documents/cnuStudy/poo/11polimorfism/obj/Debug/net8.0/11polimorfism.AssemblyInfo.cs
+/home/matheusvictor/Documents/cnuStudy/poo/11polimorfism/obj/Debug/net8.0/11polimorfism.csproj.CoreCompileInputs.cache
+/home/matheusvictor/Documents/cnuStudy/poo/11polimorfism/obj/Debug/net8.0/11polimorfism.sourcelink.json
+/home/matheusvictor/Documents/cnuStudy/poo/11polimorfism/bin/Debug/net8.0/11polimorfism
+/home/matheusvictor/Documents/cnuStudy/poo/11polimorfism/bin/Debug/net8.0/11polimorfism.deps.json
+/home/matheusvictor/Documents/cnuStudy/poo/11polimorfism/bin/Debug/net8.0/11polimorfism.runtimeconfig.json
+/home/matheusvictor/Documents/cnuStudy/poo/11polimorfism/bin/Debug/net8.0/11polimorfism.dll
+/home/matheusvictor/Documents/cnuStudy/poo/11polimorfism/bin/Debug/net8.0/11polimorfism.pdb
+/home/matheusvictor/Documents/cnuStudy/poo/11polimorfism/obj/Debug/net8.0/11polimorfism.dll
+/home/matheusvictor/Documents/cnuStudy/poo/11polimorfism/obj/Debug/net8.0/refint/11polimorfism.dll
+/home/matheusvictor/Documents/cnuStudy/poo/11polimorfism/obj/Debug/net8.0/11polimorfism.pdb
+/home/matheusvictor/Documents/cnuStudy/poo/11polimorfism/obj/Debug/net8.0/11polimorfism.genruntimeconfig.cache
+/home/matheusvictor/Documents/cnuStudy/poo/11polimorfism/obj/Debug/net8.0/ref/11polimorfism.dll

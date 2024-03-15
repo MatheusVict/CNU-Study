@@ -1,0 +1,15 @@
+/home/matheusvictor/Documents/cnuStudy/poo/06encapsulation/obj/Debug/net8.0/06encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheusvictor/Documents/cnuStudy/poo/06encapsulation/obj/Debug/net8.0/06encapsulation.AssemblyInfoInputs.cache
+/home/matheusvictor/Documents/cnuStudy/poo/06encapsulation/obj/Debug/net8.0/06encapsulation.AssemblyInfo.cs
+/home/matheusvictor/Documents/cnuStudy/poo/06encapsulation/obj/Debug/net8.0/06encapsulation.csproj.CoreCompileInputs.cache
+/home/matheusvictor/Documents/cnuStudy/poo/06encapsulation/obj/Debug/net8.0/06encapsulation.sourcelink.json
+/home/matheusvictor/Documents/cnuStudy/poo/06encapsulation/bin/Debug/net8.0/06encapsulation
+/home/matheusvictor/Documents/cnuStudy/poo/06encapsulation/bin/Debug/net8.0/06encapsulation.deps.json
+/home/matheusvictor/Documents/cnuStudy/poo/06encapsulation/bin/Debug/net8.0/06encapsulation.runtimeconfig.json
+/home/matheusvictor/Documents/cnuStudy/poo/06encapsulation/bin/Debug/net8.0/06encapsulation.dll
+/home/matheusvictor/Documents/cnuStudy/poo/06encapsulation/bin/Debug/net8.0/06encapsulation.pdb
+/home/matheusvictor/Documents/cnuStudy/poo/06encapsulation/obj/Debug/net8.0/06encapsulation.dll
+/home/matheusvictor/Documents/cnuStudy/poo/06encapsulation/obj/Debug/net8.0/refint/06encapsulation.dll
+/home/matheusvictor/Documents/cnuStudy/poo/06encapsulation/obj/Debug/net8.0/06encapsulation.pdb
+/home/matheusvictor/Documents/cnuStudy/poo/06encapsulation/obj/Debug/net8.0/06encapsulation.genruntimeconfig.cache
+/home/matheusvictor/Documents/cnuStudy/poo/06encapsulation/obj/Debug/net8.0/ref/06encapsulation.dll

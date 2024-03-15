@@ -1,0 +1,15 @@
+/home/matheusvictor/Documents/cnuStudy/poo/14interface/obj/Debug/net8.0/14interface.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheusvictor/Documents/cnuStudy/poo/14interface/obj/Debug/net8.0/14interface.AssemblyInfoInputs.cache
+/home/matheusvictor/Documents/cnuStudy/poo/14interface/obj/Debug/net8.0/14interface.AssemblyInfo.cs
+/home/matheusvictor/Documents/cnuStudy/poo/14interface/obj/Debug/net8.0/14interface.csproj.CoreCompileInputs.cache
+/home/matheusvictor/Documents/cnuStudy/poo/14interface/obj/Debug/net8.0/14interface.sourcelink.json
+/home/matheusvictor/Documents/cnuStudy/poo/14interface/bin/Debug/net8.0/14interface
+/home/matheusvictor/Documents/cnuStudy/poo/14interface/bin/Debug/net8.0/14interface.deps.json
+/home/matheusvictor/Documents/cnuStudy/poo/14interface/bin/Debug/net8.0/14interface.runtimeconfig.json
+/home/matheusvictor/Documents/cnuStudy/poo/14interface/bin/Debug/net8.0/14interface.dll
+/home/matheusvictor/Documents/cnuStudy/poo/14interface/bin/Debug/net8.0/14interface.pdb
+/home/matheusvictor/Documents/cnuStudy/poo/14interface/obj/Debug/net8.0/14interface.dll
+/home/matheusvictor/Documents/cnuStudy/poo/14interface/obj/Debug/net8.0/refint/14interface.dll
+/home/matheusvictor/Documents/cnuStudy/poo/14interface/obj/Debug/net8.0/14interface.pdb
+/home/matheusvictor/Documents/cnuStudy/poo/14interface/obj/Debug/net8.0/14interface.genruntimeconfig.cache
+/home/matheusvictor/Documents/cnuStudy/poo/14interface/obj/Debug/net8.0/ref/14interface.dll

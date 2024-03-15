@@ -1,0 +1,15 @@
+/home/matheusvictor/Documents/cnuStudy/poo/10inheritance/bin/Debug/net8.0/10inheritance
+/home/matheusvictor/Documents/cnuStudy/poo/10inheritance/bin/Debug/net8.0/10inheritance.deps.json
+/home/matheusvictor/Documents/cnuStudy/poo/10inheritance/bin/Debug/net8.0/10inheritance.runtimeconfig.json
+/home/matheusvictor/Documents/cnuStudy/poo/10inheritance/bin/Debug/net8.0/10inheritance.dll
+/home/matheusvictor/Documents/cnuStudy/poo/10inheritance/bin/Debug/net8.0/10inheritance.pdb
+/home/matheusvictor/Documents/cnuStudy/poo/10inheritance/obj/Debug/net8.0/10inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheusvictor/Documents/cnuStudy/poo/10inheritance/obj/Debug/net8.0/10inheritance.AssemblyInfoInputs.cache
+/home/matheusvictor/Documents/cnuStudy/poo/10inheritance/obj/Debug/net8.0/10inheritance.AssemblyInfo.cs
+/home/matheusvictor/Documents/cnuStudy/poo/10inheritance/obj/Debug/net8.0/10inheritance.csproj.CoreCompileInputs.cache
+/home/matheusvictor/Documents/cnuStudy/poo/10inheritance/obj/Debug/net8.0/10inheritance.sourcelink.json
+/home/matheusvictor/Documents/cnuStudy/poo/10inheritance/obj/Debug/net8.0/10inheritance.dll
+/home/matheusvictor/Documents/cnuStudy/poo/10inheritance/obj/Debug/net8.0/refint/10inheritance.dll
+/home/matheusvictor/Documents/cnuStudy/poo/10inheritance/obj/Debug/net8.0/10inheritance.pdb
+/home/matheusvictor/Documents/cnuStudy/poo/10inheritance/obj/Debug/net8.0/10inheritance.genruntimeconfig.cache
+/home/matheusvictor/Documents/cnuStudy/poo/10inheritance/obj/Debug/net8.0/ref/10inheritance.dll

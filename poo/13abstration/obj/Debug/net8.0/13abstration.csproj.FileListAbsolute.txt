@@ -1,0 +1,15 @@
+/home/matheusvictor/Documents/cnuStudy/poo/13abstration/obj/Debug/net8.0/13abstration.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheusvictor/Documents/cnuStudy/poo/13abstration/obj/Debug/net8.0/13abstration.AssemblyInfoInputs.cache
+/home/matheusvictor/Documents/cnuStudy/poo/13abstration/obj/Debug/net8.0/13abstration.AssemblyInfo.cs
+/home/matheusvictor/Documents/cnuStudy/poo/13abstration/obj/Debug/net8.0/13abstration.csproj.CoreCompileInputs.cache
+/home/matheusvictor/Documents/cnuStudy/poo/13abstration/obj/Debug/net8.0/13abstration.sourcelink.json
+/home/matheusvictor/Documents/cnuStudy/poo/13abstration/bin/Debug/net8.0/13abstration
+/home/matheusvictor/Documents/cnuStudy/poo/13abstration/bin/Debug/net8.0/13abstration.deps.json
+/home/matheusvictor/Documents/cnuStudy/poo/13abstration/bin/Debug/net8.0/13abstration.runtimeconfig.json
+/home/matheusvictor/Documents/cnuStudy/poo/13abstration/bin/Debug/net8.0/13abstration.dll
+/home/matheusvictor/Documents/cnuStudy/poo/13abstration/bin/Debug/net8.0/13abstration.pdb
+/home/matheusvictor/Documents/cnuStudy/poo/13abstration/obj/Debug/net8.0/13abstration.dll
+/home/matheusvictor/Documents/cnuStudy/poo/13abstration/obj/Debug/net8.0/refint/13abstration.dll
+/home/matheusvictor/Documents/cnuStudy/poo/13abstration/obj/Debug/net8.0/13abstration.pdb
+/home/matheusvictor/Documents/cnuStudy/poo/13abstration/obj/Debug/net8.0/13abstration.genruntimeconfig.cache
+/home/matheusvictor/Documents/cnuStudy/poo/13abstration/obj/Debug/net8.0/ref/13abstration.dll
